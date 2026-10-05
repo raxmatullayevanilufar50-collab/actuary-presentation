@@ -350,8 +350,8 @@ body {
 }
 
 .card-text {
-  font-size: 12.5px;
-  line-height: 1.5;
+  font-size: 13.5px;
+  line-height: 1.55;
   color: var(--text-light);
 }
 
@@ -359,15 +359,15 @@ body {
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 7px;
   margin-top: 6px;
 }
 
 .card-list li {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.45;
   position: relative;
-  padding-left: 16px;
+  padding-left: 18px;
   color: var(--text-light);
 }
 
